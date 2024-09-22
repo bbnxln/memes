@@ -11,4 +11,5 @@ if __name__ == "__main__":
 
     print("warning bug")
     print("new bug")
+    print("bug fixed")
     
